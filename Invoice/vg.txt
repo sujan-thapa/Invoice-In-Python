@@ -1,0 +1,3 @@
+phone 100 46
+laptop 200 40
+hdd 100 30
